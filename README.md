@@ -21,33 +21,6 @@
 - 💬 **Ask me about** agent skill design, retrieval pipelines, Backstage software templates, dynamic plugins, platform RBAC
 - 🧰 **Most of this profile is field work:** guides written while doing the work, plugins built against real constraints, POCs that had to survive a review
 
-## 🤖 AI Agents
-
-Teaching coding agents domain knowledge they don't ship with, and running retrieval systems on OpenShift AI.
-
-| Project | What it is | |
-|---|---|---|
-| **[skills](https://github.com/LiorHaim/skills)** | Reusable agent skills for Claude Code and Cursor, covering developer portal plugin development and software template authoring. Roughly 80KB of distilled patterns, references and worked examples | [![Stars](https://img.shields.io/github/stars/LiorHaim/skills?style=flat&label=%E2%AD%90)](https://github.com/LiorHaim/skills) |
-| **[autorag-poc](https://github.com/LiorHaim/autorag-poc)** | AutoRAG optimization on Red Hat OpenShift AI, with a sample corpus, evaluation data and an end to end implementation guide | [![Stars](https://img.shields.io/github/stars/LiorHaim/autorag-poc?style=flat&label=%E2%AD%90)](https://github.com/LiorHaim/autorag-poc) |
-| **[rhdh-lightspeed](https://github.com/LiorHaim/rhdh-lightspeed)** | Wiring an AI assistant into a developer portal: configuration, custom resources and setup | [![Stars](https://img.shields.io/github/stars/LiorHaim/rhdh-lightspeed?style=flat&label=%E2%AD%90)](https://github.com/LiorHaim/rhdh-lightspeed) |
-
-## 🚀 Developer Platforms
-
-| Project | What it is | |
-|---|---|---|
-| **[rhdh-1.8-to-1.9](https://github.com/LiorHaim/rhdh-1.8-to-1.9)** | Field-tested Red Hat Developer Hub upgrade guide covering the Extensions feature, community plugin distribution changes and production hardening | [![Stars](https://img.shields.io/github/stars/LiorHaim/rhdh-1.8-to-1.9?style=flat&label=%E2%AD%90)](https://github.com/LiorHaim/rhdh-1.8-to-1.9) |
-| **[gitlab-fe-selector](https://github.com/LiorHaim/gitlab-fe-selector)** | Dynamic plugin providing a scaffolder field extension for owner scoped GitLab group and repository selection, with OAuth token passthrough | [![Stars](https://img.shields.io/github/stars/LiorHaim/gitlab-fe-selector?style=flat&label=%E2%AD%90)](https://github.com/LiorHaim/gitlab-fe-selector) |
-| **[rhdh-templates-samples](https://github.com/LiorHaim/rhdh-templates-samples)** | Reusable software templates: catalog refresh, MkDocs documentation, Node.js service and notifications | [![Stars](https://img.shields.io/github/stars/LiorHaim/rhdh-templates-samples?style=flat&label=%E2%AD%90)](https://github.com/LiorHaim/rhdh-templates-samples) |
-| **[rhdh-onboarding-template](https://github.com/LiorHaim/rhdh-onboarding-template)** | Day 2 template for onboarding existing OpenShift and GitLab workloads into a developer portal without changing how teams already work | [![Stars](https://img.shields.io/github/stars/LiorHaim/rhdh-onboarding-template?style=flat&label=%E2%AD%90)](https://github.com/LiorHaim/rhdh-onboarding-template) |
-
-## 📚 Guides & POCs
-
-| | |
-|---|---|
-| **[rhdh-poc-82](https://github.com/LiorHaim/rhdh-poc-82)** | Role based access control in a developer portal: enforcement, group integration and default deny policies |
-| **[backstage-plugin-funny-picture](https://github.com/LiorHaim/backstage-plugin-funny-picture)** | Packaging a Backstage plugin as a dynamic plugin via OCI, end to end |
-| **[rhdh-plugin-random-joke](https://github.com/LiorHaim/rhdh-plugin-random-joke)** | Minimal frontend only dynamic plugin, a clean starting point |
-
 ## 🛠️ Tech
 
 <p>
